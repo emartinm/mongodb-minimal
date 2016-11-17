@@ -1,0 +1,4 @@
+{ "_id" : "ana", "email" : "ana@gmail.com", "age" : 55, "address" : { "country" : "Spain", "zip" : 876549 }, "likes" : [ "movies", "books" ] }
+{ "_id" : "eva", "email" : "eva@hotmail.com", "age" : 18, "address" : { "country" : "France", "zip" : 111333 }, "likes" : [ "books", "baseball" ] }
+{ "_id" : "juan", "email" : "j@hotmail.com", "age" : 18, "address" : { "country" : "Canada", "zip" : 115633 }, "likes" : [ "animals", "comics" ] }
+{ "_id" : "pepe", "email" : "pepe@gmail.com", "age" : 24, "address" : { "country" : "Spain", "zip" : 376543 }, "likes" : [ "football", "movies", "animals" ] }
